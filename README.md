@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Replace the src below with your actual video file or a YouTube embed link -->
   <video width="720" controls>
-    <source src=""C:\Users\AARUSHI\Videos\Screen Recordings\Achieve Print.mp4"" type="video/mp4">
+    <source src="C:\Users\AARUSHI\Videos\Screen Recordings\Achieve Print.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
