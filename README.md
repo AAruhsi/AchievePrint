@@ -1,13 +1,8 @@
 # AchievePrint
 
 <!-- VIDEO PLACEHOLDER -->
-<p align="center">
-  <!-- Replace the src below with your actual video file or a YouTube embed link -->
-  <video width="720" controls>
-    <source src="C:\Users\AARUSHI\Videos\Screen Recordings\Achieve Print.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+[Watch AchievePrint Demo Video](https://www.canva.com/design/DAGxGJmqQb0/VB9qMy4E4K5Elk-L9B4tjA/watch)
+
 
 ## Overview
 
